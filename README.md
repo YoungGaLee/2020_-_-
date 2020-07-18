@@ -5,4 +5,4 @@
 김성길 교수님의 강의를 미리 보고, 코드리뷰하기!
 https://www.youtube.com/channel/UCC76Jmsg6SAjdvphzGSJMBQ
 
-- 00_과제 : Lab 01 ~ 02 보고 오기
+- 7/20 첫 스터디 : Lab 01 ~ 02 보고 오기
